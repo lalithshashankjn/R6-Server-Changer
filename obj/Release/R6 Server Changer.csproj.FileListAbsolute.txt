@@ -1,0 +1,10 @@
+C:\Users\logic\Documents\source\R6 Server Changer\bin\Release\R6 Server Changer.exe.config
+C:\Users\logic\Documents\source\R6 Server Changer\bin\Release\R6 Server Changer.exe
+C:\Users\logic\Documents\source\R6 Server Changer\bin\Release\R6 Server Changer.pdb
+C:\Users\logic\Documents\source\R6 Server Changer\obj\Release\R6_Server_Changer.Form1.resources
+C:\Users\logic\Documents\source\R6 Server Changer\obj\Release\R6_Server_Changer.Properties.Resources.resources
+C:\Users\logic\Documents\source\R6 Server Changer\obj\Release\R6 Server Changer.csproj.GenerateResource.cache
+C:\Users\logic\Documents\source\R6 Server Changer\obj\Release\R6 Server Changer.csproj.CoreCompileInputs.cache
+C:\Users\logic\Documents\source\R6 Server Changer\obj\Release\R6 Server Changer.exe
+C:\Users\logic\Documents\source\R6 Server Changer\obj\Release\R6 Server Changer.pdb
+C:\Users\logic\Documents\source\R6 Server Changer\obj\Release\R6 Server Changer.csprojAssemblyReference.cache
